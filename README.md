@@ -2,6 +2,12 @@
 
 تکایە لیستەکە مەخوێنەرەوە ئەگەر دڵت ناسکە 
 
+
+Installation:
+```console
+npm i kurdish-profanity
+```
+
 بەکارهێنان:
 
 Usage:
